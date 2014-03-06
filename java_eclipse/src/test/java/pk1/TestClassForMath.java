@@ -19,7 +19,7 @@ import static org.junit.Assert.assertEquals;
 
 
 
-//fff\
+//fff\gggggg
 ////yyyyy
 
 public class TestClassForMath {
