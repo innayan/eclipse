@@ -9,9 +9,9 @@ import static org.junit.Assert.assertEquals;
 
 
 /**
- * Created by IntelliJ IDEA.
+ * Created by IffffntelliJ IDEA.
  * User: Elena.Pogorelova
- * Date: 9/23/11
+ * Date: 9/23/11hhh
  * Time: 12:50 PM
  * To change this template use File | Settings | File Templates.
  */
@@ -19,7 +19,7 @@ import static org.junit.Assert.assertEquals;
 
 
 
-//fbbbbff\gggggg
+//fbbbbhhhff\gggggg
 ////yyyyy
 
 public class TestClassForMath {
