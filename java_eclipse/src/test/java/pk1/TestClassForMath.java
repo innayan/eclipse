@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
 
 /**
  * Created by IffffntelliJ IDEA.
- * User: Elena.Pogorelova
+ * User: Eytylena.Pogorelova
  * Date: 9/23/11hhh
  * Time: 12:50 PM
  * To change this template use File | Settings | File Templates.
