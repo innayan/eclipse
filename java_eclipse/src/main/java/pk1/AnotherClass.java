@@ -5,7 +5,7 @@ public class AnotherClass {
 	int newResult;
 	int myResult1;
 	ClassForMath aaa;
-//rejerjerjerjerjrejrejrjejer	
+//rejerjerghhhhhhhhhtggggggttttthhhhhhhhhghhhggjerjerjrejrejrjejer	
 	public int  AnotherClass(){
  ClassForMath math1 = new ClassForMath();
   myResult1=math1.multiply(5, 6);
